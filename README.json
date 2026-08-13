@@ -1,0 +1,422 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "nvbangg/awesome-morphe"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "awesome-morphe.vercel.app"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T00:22:18Z",
+            "owner": "MorpheApp",
+            "repo": "morphe-manager",
+            "stars": 7071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T09:49:41Z",
+            "owner": "MorpheApp",
+            "repo": "morphe-patches-template",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-01T22:27:10Z",
+            "owner": "MorpheApp",
+            "repo": "morphe-library",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "✅ Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How to install and use Shizuku",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-15T03:12:10Z",
+            "owner": "thedjchi",
+            "repo": "Shizuku",
+            "stars": 5016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Morphe Documentation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Basic patching guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-09T14:32:39Z",
+                "owner": "MorpheApp",
+                "repo": "morphe-documentation",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Frequently asked questions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-09T14:32:39Z",
+                "owner": "MorpheApp",
+                "repo": "morphe-documentation",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Troubleshooting Help",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-09T14:32:39Z",
+                "owner": "MorpheApp",
+                "repo": "morphe-documentation",
+                "stars": 124
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T14:32:39Z",
+            "owner": "MorpheApp",
+            "repo": "morphe-documentation",
+            "stars": 124
+          }
+        }
+      ],
+      "title": "📚 Resources"
+    },
+    {
+      "description": "🔍 Browse and explore all supported Morphe apps and patches from the following sources:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ReVanced Patch Bundles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T07:02:57Z",
+            "owner": "Jman-Github",
+            "repo": "ReVanced-Patch-Bundles",
+            "stars": 635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Morphe Website",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:39:37Z",
+            "owner": "nvbangg",
+            "repo": "awesome-morphe",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alternative: Patch Explorer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-26T16:24:38Z",
+            "owner": "Paresh-Maheshwari",
+            "repo": "patch-explorer",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revanced External Bundles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-02T14:47:10Z",
+            "owner": "brosssh",
+            "repo": "revanced-external-bundles",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Morphe Patch Tracker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:20:41Z",
+            "owner": "drnx64",
+            "repo": "morphe-track-patches",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Morphe Archive",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Smali",
+            "last_commit": "2026-08-13T02:02:53Z",
+            "owner": "rushiforai",
+            "repo": "morphe-archive",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community Patch Space Explorer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:21:07Z",
+            "owner": "dmh84",
+            "repo": "morphe-space-explorer",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Patch Atlas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T13:29:41Z",
+            "owner": "shakir2117",
+            "repo": "Patch-Atlas",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "🔍 Patch Indexes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jman-Github/Universal-ReVanced-Manager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T04:35:47Z",
+            "owner": "Jman-Github",
+            "repo": "Universal-ReVanced-Manager",
+            "stars": 1249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jman-Github/Awesome-ReVanced",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:27:53Z",
+            "owner": "Jman-Github",
+            "repo": "Awesome-ReVanced",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graywizard888/Enhancify",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T09:11:35Z",
+            "owner": "Graywizard888",
+            "repo": "Enhancify",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paresh-Maheshwari/morphe-ai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-25T04:38:14Z",
+            "owner": "Paresh-Maheshwari",
+            "repo": "morphe-ai",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xisrr1/Revancify-Xisr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-14T15:46:53Z",
+            "owner": "Xisrr1",
+            "repo": "Revancify-Xisr",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvbangg/builder-for-morphe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T10:02:46Z",
+            "owner": "nvbangg",
+            "repo": "builder-for-morphe",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rushiranpise/apk-download-helper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T07:53:03Z",
+            "owner": "rushiranpise",
+            "repo": "apk-download-helper",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hoo-dles/jadx-morphe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-27T04:34:55Z",
+            "owner": "hoo-dles",
+            "repo": "jadx-morphe",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "🛠️ Other Projects"
+    },
+    {
+      "description": "github.com/nvbangg/awesome-morphe⭐ Star this repo if you find it useful!Maintained with ❤️ by @nvbangg",
+      "items": [],
+      "title": "⬇️ Pre-patched sources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Patch data is automatically aggregated from: My custom sources",
+          "description": ", Morphe Community Patches, ReVanced Patch Bundles and Morphe Archive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T07:02:57Z",
+            "owner": "Jman-Github",
+            "repo": "ReVanced-Patch-Bundles",
+            "stars": 635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "This project's design is inspired by Awesome ReVanced",
+          "description": ", Morphe Community Patches, ReVanced Patch Bundles and Patch Explorer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:27:53Z",
+            "owner": "Jman-Github",
+            "repo": "Awesome-ReVanced",
+            "stars": 333
+          }
+        }
+      ],
+      "title": "🙏 Credits"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:03:48.198Z",
+    "original_repository": "nvbangg/awesome-morphe",
+    "original_repository_sha": "e05accac73cf2ad868bcc1c23cdf9b7d8f6cce63",
+    "enhanced_repository": "enhansome/enhansome-morphe",
+    "enhanced_repository_description": null,
+    "title": "Awesome morphe with stars"
+  }
+}
