@@ -34,7 +34,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MorpheApp-gray?logo=github\&labelColor=24292F)](https://github.com/MorpheApp)
 
-* [![Morphe Manager](https://img.shields.io/badge/%F0%9F%92%8A%20Morphe%20Manager-gray)](https://github.com/MorpheApp/morphe-manager) ⭐ 7,250 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-19　[![MicroG RE](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20MicroG%20RE-gray)](https://github.com/MorpheApp/MicroG-RE/releases) ⭐ 4,581 | 🐛 30 | 🌐 Java | 📅 2026-08-19　[![Morphe Patches](https://img.shields.io/badge/%F0%9F%A7%A9%20Morphe%20Patches-gray)](https://github.com/MorpheApp/morphe-patches) ⭐ 3,285 | 🐛 420 | 🌐 Java | 📅 2026-08-19　[![Morphe Desktop](https://img.shields.io/badge/%F0%9F%92%BB%20Morphe%20Desktop-gray)](https://github.com/MorpheApp/morphe-desktop) ⭐ 384 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-18　
+* [![Morphe Manager](https://img.shields.io/badge/%F0%9F%92%8A%20Morphe%20Manager-gray)](https://github.com/MorpheApp/morphe-manager) ⭐ 7,274 | 🐛 25 | 🌐 Kotlin | 📅 2026-08-20　[![MicroG RE](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20MicroG%20RE-gray)](https://github.com/MorpheApp/MicroG-RE/releases) ⭐ 4,589 | 🐛 31 | 🌐 Java | 📅 2026-08-20　[![Morphe Patches](https://img.shields.io/badge/%F0%9F%A7%A9%20Morphe%20Patches-gray)](https://github.com/MorpheApp/morphe-patches) ⭐ 3,292 | 🐛 427 | 🌐 Java | 📅 2026-08-20　[![Morphe Desktop](https://img.shields.io/badge/%F0%9F%92%BB%20Morphe%20Desktop-gray)](https://github.com/MorpheApp/morphe-desktop) ⭐ 386 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-18　
 * [![Morphe Patches Template](https://img.shields.io/badge/%F0%9F%91%8B%F0%9F%A7%A9%20Morphe%20Patches%20Template-gray)](https://github.com/MorpheApp/morphe-patches-template) ⭐ 64 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-16　[![Morphe Patcher](https://img.shields.io/badge/%F0%9F%92%89%20Morphe%20Patcher-gray)](https://github.com/MorpheApp/morphe-patcher) ⭐ 153 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-18　[![Morphe Website](https://img.shields.io/badge/%F0%9F%8C%90%20Morphe%20Website-gray)](https://github.com/MorpheApp/morphe-website) ⭐ 18 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-18
 * [![Morphe Library](https://img.shields.io/badge/%F0%9F%93%9A%20Morphe%20Library-gray)](https://github.com/MorpheApp/morphe-library) ⭐ 19 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-18　[![Morphe Patches Library](https://img.shields.io/badge/%F0%9F%93%9A%20Morphe%20Patches%20Library-gray)](https://github.com/MorpheApp/morphe-patches-library) ⭐ 20 | 🐛 1 | 🌐 Java | 📅 2026-08-17　[![Morphe Patches Gradle plugin](https://img.shields.io/badge/%F0%9F%90%98%20Morphe%20Patches%20Gradle%20plugin-gray)](https://github.com/MorpheApp/morphe-patches-gradle-plugin) ⭐ 5 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-01　[![Morphe Branding](https://img.shields.io/badge/%C2%A9%EF%B8%8F%20Branding-gray)](https://github.com/MorpheApp/morphe-branding) ⭐ 9 | 🐛 3 | 📅 2026-05-25　[![jadb](https://img.shields.io/badge/jadb-gray)](https://github.com/MorpheApp/jadb) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-05-04
 
@@ -42,10 +42,10 @@
 
 ## <a id="resources"></a> 📚 Resources
 
-* [How to install and use Shizuku](https://github.com/thedjchi/Shizuku/wiki) ⭐ 5,150 | 🐛 64 | 🌐 Kotlin | 📅 2026-07-15
-* [Morphe Documentation](https://github.com/MorpheApp/morphe-documentation) ⭐ 127 | 🐛 3 | 📅 2026-08-09
-  * [Frequently asked questions](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-resources/questions.md) ⭐ 127 | 🐛 3 | 📅 2026-08-09
-  * [Troubleshooting Help](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-resources/troubleshooting.md) ⭐ 127 | 🐛 3 | 📅 2026-08-09
+* [How to install and use Shizuku](https://github.com/thedjchi/Shizuku/wiki) ⭐ 5,166 | 🐛 64 | 🌐 Kotlin | 📅 2026-07-15
+* [Morphe Documentation](https://github.com/MorpheApp/morphe-documentation) ⭐ 128 | 🐛 3 | 📅 2026-08-09
+  * [Frequently asked questions](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-resources/questions.md) ⭐ 128 | 🐛 3 | 📅 2026-08-09
+  * [Troubleshooting Help](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-resources/troubleshooting.md) ⭐ 128 | 🐛 3 | 📅 2026-08-09
 * [Morphe links, help, guides, and troubleshooting](https://www.reddit.com/r/MorpheApp/comments/1pverk7/morphe_links_help_guides_and_troubleshooting/)
   * [If you have playback issues](https://www.reddit.com/r/MorpheApp/comments/1pverk7/comment/oag938k/)
   * [Shorts player has no buttons](https://www.reddit.com/r/MorpheApp/comments/1pverk7/comment/ogdw6mk/)
@@ -60,9 +60,9 @@
 
 🔍 Browse and explore all supported Morphe apps and patches from the following sources:
 
-* [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ⭐ 639 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-19
+* [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ⭐ 640 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-20
 
-* [Awesome Morphe Website](https://awesome-morphe.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/nvbangg/awesome-morphe) ⭐ 322 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19
+* [Awesome Morphe Website](https://awesome-morphe.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/nvbangg/awesome-morphe) ⭐ 327 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20
 
 * <details><summary><a href="https://patch-explorer.web.app/">Patch Explorer</a> <a href="https://gitlab.com/Paresh-Maheshwari/patch-explorer"><img src="https://img.shields.io/badge/Repo-black?style=social&logo=gitlab" alt="Repo"></a></summary>
 
@@ -72,11 +72,11 @@
 
 * [Revanced External Bundles](https://revanced-external-bundles.brosssh.com/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/brosssh/revanced-external-bundles) ⭐ 38 | 🐛 6 | 🌐 Kotlin | 📅 2026-04-02
 
-* [Morphe Patch Tracker](https://morphe-patches-drnx64.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/drnx64/morphe-track-patches) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-19
+* [Morphe Patch Tracker](https://morphe-patches-drnx64.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/drnx64/morphe-track-patches) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-20
 
-* [Morphe Archive](https://rushiforai.github.io/morphe-archive/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/rushiforai/morphe-archive) ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2026-08-19
+* [Morphe Archive](https://rushiforai.github.io/morphe-archive/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/rushiforai/morphe-archive) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2026-08-20
 
-* [Community Patch Space Explorer](https://dmh84.github.io/morphe-space-explorer/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/dmh84/morphe-space-explorer) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-08-19
+* [Community Patch Space Explorer](https://dmh84.github.io/morphe-space-explorer/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/dmh84/morphe-space-explorer) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-08-20
 
 * [Patch Atlas](https://patch-atlas.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/shakir2117/Patch-Atlas) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-20
 
@@ -152,7 +152,7 @@
 > \[!NOTE]
 > Pre-patched sources are not listed here for safety and liability reasons.\
 > ⚠️ Only download or [build your own APKs](https://github.com/nvbangg/builder-for-morphe#-build-your-own-apks) ⭐ 96 | 🐛 0 | 🌐 Python | 📅 2026-08-01 from trusted open-source builder repositories.\
-> If you still want to explore them, see [Jman’s list](https://github.com/Jman-Github/Awesome-ReVanced#%EF%B8%8F-builder) ⭐ 335 | 🐛 0 | 🌐 Python | 📅 2026-08-19
+> If you still want to explore them, see [Jman’s list](https://github.com/Jman-Github/Awesome-ReVanced#%EF%B8%8F-builder) ⭐ 337 | 🐛 0 | 🌐 Python | 📅 2026-08-20
 
 ***
 
@@ -161,20 +161,20 @@
 <div align="center">
 
 Maintained with ❤️ by **[@nvbangg](https://github.com/nvbangg)**\
-⭐ Star [this repo](https://github.com/nvbangg/awesome-morphe) ⭐ 322 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 if you find it useful!
+⭐ Star [this repo](https://github.com/nvbangg/awesome-morphe) ⭐ 327 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 if you find it useful!
 
 </div>
 
 #### ⚠️ Disclaimer
 
-* [This project](https://github.com/nvbangg/awesome-morphe) ⭐ 322 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 is not affiliated with [Morphe](https://morphe.software/) or any authors mentioned here.
+* [This project](https://github.com/nvbangg/awesome-morphe) ⭐ 327 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 is not affiliated with [Morphe](https://morphe.software/) or any authors mentioned here.
 * Only use patch sources or projects you trust. This project is for informational purposes only and is not responsible for any arising issues.
 
 #### 🙏 Credits
 
-* Patch data is automatically aggregated from: [My custom sources](data/repos/custom.json), [Morphe Community Patches](https://morphe-patches.software), [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ⭐ 639 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-19 and [Morphe Archive](https://github.com/rushiforai/morphe-archive) ⭐ 14 | 🐛 0 | 🌐 Java | 📅 2026-08-19.
-* This project's design is inspired by [Awesome ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) ⭐ 335 | 🐛 0 | 🌐 Python | 📅 2026-08-19, [Morphe Community Patches](https://morphe-patches.software), [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ⭐ 639 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-19 and [Patch Explorer](https://github.com/Paresh-Maheshwari/patch-explorer) ⭐ 66 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-26.
+* Patch data is automatically aggregated from: [My custom sources](data/repos/custom.json), [Morphe Community Patches](https://morphe-patches.software), [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ⭐ 640 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-20 and [Morphe Archive](https://github.com/rushiforai/morphe-archive) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2026-08-20.
+* This project's design is inspired by [Awesome ReVanced](https://github.com/Jman-Github/Awesome-ReVanced) ⭐ 337 | 🐛 0 | 🌐 Python | 📅 2026-08-20, [Morphe Community Patches](https://morphe-patches.software), [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ⭐ 640 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-20 and [Patch Explorer](https://github.com/Paresh-Maheshwari/patch-explorer) ⭐ 66 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-26.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
