@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1219854771,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:12:12Z",
+            "last_commit": "2026-08-27T12:55:41Z",
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 347
+            "stars": 349
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1219854771,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:12:12Z",
+            "last_commit": "2026-08-27T12:55:41Z",
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 347
+            "stars": 349
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1219854771,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:12:12Z",
+            "last_commit": "2026-08-27T12:55:41Z",
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 347
+            "stars": 349
           }
         }
       ],
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 1104751416,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T09:27:09Z",
+            "last_commit": "2026-08-27T15:42:19Z",
             "owner": "MorpheApp",
             "repo": "morphe-manager",
-            "stars": 7500
+            "stars": 7510
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-07-15T03:12:10Z",
             "owner": "thedjchi",
             "repo": "Shizuku",
-            "stars": 5340
+            "stars": 5352
           }
         },
         {
@@ -181,7 +181,7 @@
             "archived": false,
             "id": 792505279,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T11:07:37Z",
+            "last_commit": "2026-08-27T17:00:16Z",
             "owner": "Jman-Github",
             "repo": "ReVanced-Patch-Bundles",
             "stars": 646
@@ -196,10 +196,10 @@
             "archived": false,
             "id": 1219854771,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:12:12Z",
+            "last_commit": "2026-08-27T12:55:41Z",
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 347
+            "stars": 349
           }
         },
         {
@@ -241,10 +241,10 @@
             "archived": false,
             "id": 1274962994,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:06:37Z",
+            "last_commit": "2026-08-27T13:35:02Z",
             "owner": "drnx64",
             "repo": "morphe-track-patches",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -271,7 +271,7 @@
             "archived": false,
             "id": 1267372040,
             "language": "Python",
-            "last_commit": "2026-08-26T05:39:43Z",
+            "last_commit": "2026-08-27T16:19:35Z",
             "owner": "dmh84",
             "repo": "morphe-space-explorer",
             "stars": 4
@@ -309,10 +309,10 @@
                 "archived": false,
                 "id": 1219854771,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:12:12Z",
+                "last_commit": "2026-08-27T12:55:41Z",
                 "owner": "nvbangg",
                 "repo": "awesome-morphe",
-                "stars": 347
+                "stars": 349
               }
             }
           ],
@@ -331,7 +331,7 @@
                 "archived": false,
                 "id": 792505279,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T11:07:37Z",
+                "last_commit": "2026-08-27T17:00:16Z",
                 "owner": "Jman-Github",
                 "repo": "ReVanced-Patch-Bundles",
                 "stars": 646
@@ -347,17 +347,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:47.315Z",
+    "last_updated": "2026-08-27T17:53:21.118Z",
     "original_repository_info": {
       "archived": false,
       "id": 1219854771,
       "language": "TypeScript",
-      "last_commit": "2026-08-27T08:12:12Z",
+      "last_commit": "2026-08-27T12:55:41Z",
       "owner": "nvbangg",
       "repo": "awesome-morphe",
-      "stars": 347
+      "stars": 349
     },
-    "original_repository_sha": "b5f0a533d2b564761f2651b68630ceaaaceb5b2d",
+    "original_repository_sha": "9dc2fd920aaa472b3764f6771832597812663934",
     "enhanced_repository": "enhansome/enhansome-morphe",
     "enhanced_repository_description": null,
     "title": "Awesome Morphe with stars"
