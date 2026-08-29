@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explore all Morphe resources, patch bundles and community projects.",
+            "homepage": "https://awesome-morphe.vercel.app",
             "id": 1219854771,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:44:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:49:58Z",
+            "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 352
+            "stars": 353,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "morphe",
+              "morphe-patches"
+            ]
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -26,12 +37,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explore all Morphe resources, patch bundles and community projects.",
+            "homepage": "https://awesome-morphe.vercel.app",
             "id": 1219854771,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:44:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:49:58Z",
+            "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 352
+            "stars": 353,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "morphe",
+              "morphe-patches"
+            ]
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -42,12 +64,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explore all Morphe resources, patch bundles and community projects.",
+            "homepage": "https://awesome-morphe.vercel.app",
             "id": 1219854771,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:44:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:49:58Z",
+            "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 352
+            "stars": 353,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "morphe",
+              "morphe-patches"
+            ]
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         }
@@ -64,12 +97,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Morphe app patcher for Android",
+            "homepage": "https://Morphe.software",
             "id": 1104751416,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T16:07:21Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T00:21:05Z",
+            "open_issues": 25,
             "owner": "MorpheApp",
             "repo": "morphe-manager",
-            "stars": 7544
+            "stars": 7547,
+            "topics": [
+              "android",
+              "apk",
+              "app",
+              "morphe",
+              "patcher",
+              "patches",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -80,12 +126,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo template for creating and releasing custom Morphe patches",
+            "homepage": null,
             "id": 1106401682,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T14:15:53Z",
+            "open_issues": 1,
             "owner": "MorpheApp",
             "repo": "morphe-patches-template",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "android",
+              "morphe",
+              "morphe-patches"
+            ]
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -96,12 +151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://Morphe.software",
             "id": 1106044108,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T14:22:55Z",
+            "open_issues": 1,
             "owner": "MorpheApp",
             "repo": "morphe-library",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         }
@@ -118,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+            "homepage": null,
             "id": 1029712303,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-15T03:12:10Z",
+            "open_issues": 66,
             "owner": "thedjchi",
             "repo": "Shizuku",
-            "stars": 5377
+            "stars": 5385,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -139,12 +204,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General documentation about Morphe",
+                "homepage": "https://Morphe.software",
                 "id": 1106402083,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-22T12:38:17Z",
+                "open_issues": 3,
                 "owner": "MorpheApp",
                 "repo": "morphe-documentation",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "morphe"
+                ]
               },
               "first_seen": "2026-08-28T18:59:47.153Z"
             },
@@ -155,24 +227,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General documentation about Morphe",
+                "homepage": "https://Morphe.software",
                 "id": 1106402083,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-22T12:38:17Z",
+                "open_issues": 3,
                 "owner": "MorpheApp",
                 "repo": "morphe-documentation",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "morphe"
+                ]
               },
               "first_seen": "2026-08-28T18:59:47.153Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "General documentation about Morphe",
+            "homepage": "https://Morphe.software",
             "id": 1106402083,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-22T12:38:17Z",
+            "open_issues": 3,
             "owner": "MorpheApp",
             "repo": "morphe-documentation",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "morphe"
+            ]
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         }
@@ -189,12 +275,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.",
+            "homepage": null,
             "id": 792505279,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T17:40:42Z",
+            "license": "Unlicense",
+            "last_commit": "2026-08-29T01:50:04Z",
+            "open_issues": 1,
             "owner": "Jman-Github",
             "repo": "ReVanced-Patch-Bundles",
-            "stars": 648
+            "stars": 650,
+            "topics": [
+              "koltin",
+              "morphe",
+              "python",
+              "revanced",
+              "revanced-extended",
+              "revanced-patches"
+            ]
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -205,12 +303,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explore all Morphe resources, patch bundles and community projects.",
+            "homepage": "https://awesome-morphe.vercel.app",
             "id": 1219854771,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:44:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:49:58Z",
+            "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 352
+            "stars": 353,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "morphe",
+              "morphe-patches"
+            ]
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -221,12 +330,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browse and search all ReVanced patch bundles — apps, patches, versions, changelogs",
+            "homepage": "https://paresh-maheshwari.github.io/patch-explorer/",
             "id": 1206190745,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-26T16:24:38Z",
+            "open_issues": 4,
             "owner": "Paresh-Maheshwari",
             "repo": "patch-explorer",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "morphe",
+              "patch-bundles",
+              "revanced",
+              "revanced-manager",
+              "revanced-patches",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -237,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 Collection of external ReVanced/Morphe bundles",
+            "homepage": "https://revanced-external-bundles.brosssh.com",
             "id": 1117426197,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T18:17:50Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T21:39:40Z",
+            "open_issues": 4,
             "owner": "brosssh",
             "repo": "revanced-external-bundles",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -253,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://morphe-patches-drnx64.vercel.app/",
             "id": 1274962994,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:53:09Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:52:47Z",
+            "open_issues": 0,
             "owner": "drnx64",
             "repo": "morphe-track-patches",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -269,12 +400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An auto-generated, continuously updated index of every GitHub or GitLab repository that publishes a Morphe (.mpp) patch bundle.",
+            "homepage": "rushiforai.github.io/morphe-archive",
             "id": 1278644333,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-08-28T09:45:24Z",
+            "open_issues": 0,
             "owner": "rushiforai",
             "repo": "morphe-archive",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -285,12 +421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1267372040,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:16:44Z",
+            "open_issues": 0,
             "owner": "dmh84",
             "repo": "morphe-space-explorer",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         },
@@ -301,12 +442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Patch Atlas — live map of every ReVanced & Morphe patch across community bundles.",
+            "homepage": "https://patch-atlas.vercel.app",
             "id": 1285372407,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T13:29:41Z",
+            "open_issues": 0,
             "owner": "shakir2117",
             "repo": "Patch-Atlas",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
         }
@@ -325,12 +471,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Explore all Morphe resources, patch bundles and community projects.",
+                "homepage": "https://awesome-morphe.vercel.app",
                 "id": 1219854771,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T18:44:22Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:49:58Z",
+                "open_issues": 0,
                 "owner": "nvbangg",
                 "repo": "awesome-morphe",
-                "stars": 352
+                "stars": 353,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "morphe",
+                  "morphe-patches"
+                ]
               },
               "first_seen": "2026-08-28T18:59:47.153Z"
             }
@@ -348,12 +505,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.",
+                "homepage": null,
                 "id": 792505279,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T17:40:42Z",
+                "license": "Unlicense",
+                "last_commit": "2026-08-29T01:50:04Z",
+                "open_issues": 1,
                 "owner": "Jman-Github",
                 "repo": "ReVanced-Patch-Bundles",
-                "stars": 648
+                "stars": 650,
+                "topics": [
+                  "koltin",
+                  "morphe",
+                  "python",
+                  "revanced",
+                  "revanced-extended",
+                  "revanced-patches"
+                ]
               },
               "first_seen": "2026-08-28T18:59:47.153Z"
             }
@@ -367,17 +536,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:59:47.153Z",
+    "last_updated": "2026-08-29T04:49:12.834Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Explore all Morphe resources, patch bundles and community projects.",
+      "homepage": "https://awesome-morphe.vercel.app",
       "id": 1219854771,
       "language": "TypeScript",
-      "last_commit": "2026-08-28T18:44:22Z",
+      "license": "MIT",
+      "last_commit": "2026-08-29T02:49:58Z",
+      "open_issues": 0,
       "owner": "nvbangg",
       "repo": "awesome-morphe",
-      "stars": 352
+      "stars": 353,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "morphe",
+        "morphe-patches"
+      ]
     },
-    "original_repository_sha": "aa4bbf8733dce9f3a8a7fe281ca3c46a331f9d36",
+    "original_repository_sha": "46e077ed41fa6c2aab5a5148663e988d055038dc",
     "enhanced_repository": "enhansome/enhansome-morphe",
     "enhanced_repository_description": null,
     "title": "Awesome Morphe with stars"
