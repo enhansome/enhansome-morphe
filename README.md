@@ -18,9 +18,9 @@
 
 ### 📬 Contributing
 
-* To add or remove a bundle source, please submit a [Bundle Request](https://github.com/nvbangg/awesome-morphe/issues/new?template=bundle-request.yml) ⭐ 363 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-02.
-* For any other issues or suggestions, feel free to [open a new issue](https://github.com/nvbangg/awesome-morphe/issues/new) ⭐ 363 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-02.
-* Contributions and [pull requests](https://github.com/nvbangg/awesome-morphe/pulls) ⭐ 363 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-02 are always welcome!
+* To add or remove a bundle source, please submit a [Bundle Request](https://github.com/nvbangg/awesome-morphe/issues/new?template=bundle-request.yml) ⭐ 366 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-03.
+* For any other issues or suggestions, feel free to [open a new issue](https://github.com/nvbangg/awesome-morphe/issues/new) ⭐ 366 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-03.
+* Contributions and [pull requests](https://github.com/nvbangg/awesome-morphe/pulls) ⭐ 366 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-03 are always welcome!
 
 > \[!NOTE]
 > 📖 For project workflows and documentation, see [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -45,17 +45,17 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MorpheApp-gray?logo=github\&labelColor=24292F)](https://github.com/MorpheApp)
 
-* [![Morphe Manager](https://img.shields.io/badge/%F0%9F%92%8A%20Morphe%20Manager-gray)](https://github.com/MorpheApp/morphe-manager) ⭐ 7,682 | 🐛 33 | 🌐 Kotlin | 📅 2026-09-02　[![MicroG RE](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20MicroG%20RE-gray)](https://github.com/MorpheApp/MicroG-RE) ⭐ 4,778 | 🐛 11 | 🌐 Java | 📅 2026-09-02　[![PoToken Helper](https://img.shields.io/badge/%F0%9F%92%BC%20PoToken%20Helper-gray)](https://github.com/MorpheApp/PotHelper) ⭐ 182 | 🐛 0 | 🌐 Java | 📅 2026-08-28　[![Morphe Desktop](https://img.shields.io/badge/%F0%9F%92%BB%20Morphe%20Desktop-gray)](https://github.com/MorpheApp/morphe-desktop) ⭐ 508 | 🐛 18 | 🌐 Kotlin | 📅 2026-09-02　
+* [![Morphe Manager](https://img.shields.io/badge/%F0%9F%92%8A%20Morphe%20Manager-gray)](https://github.com/MorpheApp/morphe-manager) ⭐ 7,721 | 🐛 34 | 🌐 Kotlin | 📅 2026-09-03　[![MicroG RE](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20MicroG%20RE-gray)](https://github.com/MorpheApp/MicroG-RE) ⭐ 4,792 | 🐛 9 | 🌐 Java | 📅 2026-09-03　[![PoToken Helper](https://img.shields.io/badge/%F0%9F%92%BC%20PoToken%20Helper-gray)](https://github.com/MorpheApp/PotHelper) ⭐ 187 | 🐛 0 | 🌐 Java | 📅 2026-08-28　[![Morphe Desktop](https://img.shields.io/badge/%F0%9F%92%BB%20Morphe%20Desktop-gray)](https://github.com/MorpheApp/morphe-desktop) ⭐ 513 | 🐛 19 | 🌐 Kotlin | 📅 2026-09-03　
 
-* [![Morphe Patches](https://img.shields.io/badge/%F0%9F%A7%A9%20Morphe%20Patches-gray)](https://github.com/MorpheApp/morphe-patches) ⭐ 3,476 | 🐛 455 | 🌐 Java | 📅 2026-09-02　[![Morphe Patches Template](https://img.shields.io/badge/%F0%9F%91%8B%F0%9F%A7%A9%20Morphe%20Patches%20Template-gray)](https://github.com/MorpheApp/morphe-patches-template) ⭐ 75 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-29　[![Morphe Patcher](https://img.shields.io/badge/%F0%9F%92%89%20Morphe%20Patcher-gray)](https://github.com/MorpheApp/morphe-patcher) ⭐ 165 | 🐛 17 | 🌐 Kotlin | 📅 2026-09-01
+* [![Morphe Patches](https://img.shields.io/badge/%F0%9F%A7%A9%20Morphe%20Patches-gray)](https://github.com/MorpheApp/morphe-patches) ⭐ 3,492 | 🐛 455 | 🌐 Java | 📅 2026-09-03　[![Morphe Patches Template](https://img.shields.io/badge/%F0%9F%91%8B%F0%9F%A7%A9%20Morphe%20Patches%20Template-gray)](https://github.com/MorpheApp/morphe-patches-template) ⭐ 75 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-03　[![Morphe Patcher](https://img.shields.io/badge/%F0%9F%92%89%20Morphe%20Patcher-gray)](https://github.com/MorpheApp/morphe-patcher) ⭐ 166 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-03
 
-* [![Morphe Website](https://img.shields.io/badge/%F0%9F%8C%90%20Morphe%20Website-gray)](https://github.com/MorpheApp/morphe-website) ⭐ 21 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-01　[![Morphe Library](https://img.shields.io/badge/%F0%9F%93%9A%20Morphe%20Library-gray)](https://github.com/MorpheApp/morphe-library) ⭐ 20 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-02　[![Morphe Patches Library](https://img.shields.io/badge/%F0%9F%93%9A%20Morphe%20Patches%20Library-gray)](https://github.com/MorpheApp/morphe-patches-library) ⭐ 25 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-02　[![Morphe Patches Gradle plugin](https://img.shields.io/badge/%F0%9F%90%98%20Morphe%20Patches%20Gradle%20plugin-gray)](https://github.com/MorpheApp/morphe-patches-gradle-plugin) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-01　[![Morphe Branding](https://img.shields.io/badge/%C2%A9%EF%B8%8F%20Branding-gray)](https://github.com/MorpheApp/morphe-branding) ⭐ 9 | 🐛 3 | 📅 2026-05-25　[![jadb](https://img.shields.io/badge/jadb-gray)](https://github.com/MorpheApp/jadb) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-05-04
+* [![Morphe Website](https://img.shields.io/badge/%F0%9F%8C%90%20Morphe%20Website-gray)](https://github.com/MorpheApp/morphe-website) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-01　[![Morphe Library](https://img.shields.io/badge/%F0%9F%93%9A%20Morphe%20Library-gray)](https://github.com/MorpheApp/morphe-library) ⭐ 20 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-02　[![Morphe Patches Library](https://img.shields.io/badge/%F0%9F%93%9A%20Morphe%20Patches%20Library-gray)](https://github.com/MorpheApp/morphe-patches-library) ⭐ 25 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-02　[![Morphe Patches Gradle plugin](https://img.shields.io/badge/%F0%9F%90%98%20Morphe%20Patches%20Gradle%20plugin-gray)](https://github.com/MorpheApp/morphe-patches-gradle-plugin) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-01　[![Morphe Branding](https://img.shields.io/badge/%C2%A9%EF%B8%8F%20Branding-gray)](https://github.com/MorpheApp/morphe-branding) ⭐ 9 | 🐛 3 | 📅 2026-05-25　[![jadb](https://img.shields.io/badge/jadb-gray)](https://github.com/MorpheApp/jadb) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-05-04
 
 [![Website](https://img.shields.io/badge/Website-morphe.software-gray?logo=google-chrome\&logoColor=white\&labelColor=4285F4)](https://morphe.software)　[![Website](https://img.shields.io/badge/Website-morphe--patches.software-gray?logo=google-chrome\&logoColor=white\&labelColor=4285F4)](https://morphe-patches.software)　[![Reddit](https://img.shields.io/badge/Reddit-r%2FMorpheApp-gray?logo=reddit\&logoColor=white\&labelColor=FF4500)](https://www.reddit.com/r/MorpheApp)　[![X](https://img.shields.io/badge/Twitter-%40MorpheApp-gray?logo=x\&logoColor=white\&labelColor=24292F)](https://x.com/MorpheApp)　[![Crowdin](https://img.shields.io/badge/Crowdin-morphe-gray?logo=crowdin\&logoColor=white\&labelColor=2E3340)](https://crowdin.com/project/morphe)　[![OpenCollective](https://img.shields.io/badge/OpenCollective-morpheapp-gray?logo=opencollective\&logoColor=white\&labelColor=4773AC)](https://opencollective.com/morpheapp)
 
 ## <a id="resources"></a> 📚 Resources
 
-* [How to install and use Shizuku](https://github.com/thedjchi/Shizuku/wiki) ⭐ 5,472 | 🐛 67 | 🌐 Kotlin | 📅 2026-07-15
+* [How to install and use Shizuku](https://github.com/thedjchi/Shizuku/wiki) ⭐ 5,492 | 🐛 70 | 🌐 Kotlin | 📅 2026-07-15
 * [Morphe Documentation](https://github.com/MorpheApp/morphe-documentation) ⭐ 137 | 🐛 3 | 📅 2026-09-02
   * [Frequently asked questions](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-resources/questions.md) ⭐ 137 | 🐛 3 | 📅 2026-09-02
   * [Troubleshooting Help](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-resources/troubleshooting.md) ⭐ 137 | 🐛 3 | 📅 2026-09-02
@@ -74,23 +74,23 @@
 
 🔍 Browse and explore all supported Morphe apps and patches from the following sources:
 
-* [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ⭐ 656 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-02
+* [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ⭐ 656 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-03
 
-* [Awesome Morphe Website](https://awesome-morphe.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/nvbangg/awesome-morphe) ⭐ 363 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-02
+* [Awesome Morphe Website](https://awesome-morphe.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/nvbangg/awesome-morphe) ⭐ 366 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-03
 
 * <details><summary><a href="https://patch-explorer.web.app/">Patch Explorer</a> <a href="https://gitlab.com/Paresh-Maheshwari/patch-explorer"><img src="https://img.shields.io/badge/Repo-black?style=social&logo=gitlab" alt="Repo"></a></summary>
 
-  Alternative: [Patch Explorer](https://paresh-maheshwari.github.io/patch-explorer/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/Paresh-Maheshwari/patch-explorer) ⭐ 67 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-26
+  Alternative: [Patch Explorer](https://paresh-maheshwari.github.io/patch-explorer/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/Paresh-Maheshwari/patch-explorer) ⭐ 66 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-26
 
   </details>
 
-* [Revanced External Bundles](https://revanced-external-bundles.brosssh.com/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/brosssh/revanced-external-bundles) ⭐ 38 | 🐛 5 | 🌐 Kotlin | 📅 2026-09-01
+* [Revanced External Bundles](https://revanced-external-bundles.brosssh.com/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/brosssh/revanced-external-bundles) ⭐ 39 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-03
 
-* [Morphe Patch Tracker](https://morphe-patches-drnx64.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/drnx64/morphe-track-patches) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-02
+* [Morphe Patch Tracker](https://morphe-patches-drnx64.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/drnx64/morphe-track-patches) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-03
 
-* [Morphe Archive](https://rushiforai.github.io/morphe-archive/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/rushiforai/morphe-archive) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-09-02
+* [Morphe Archive](https://rushiforai.github.io/morphe-archive/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/rushiforai/morphe-archive) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-09-03
 
-* [Community Patch Space Explorer](https://dmh84.github.io/morphe-space-explorer/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/dmh84/morphe-space-explorer) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-09-02
+* [Community Patch Space Explorer](https://dmh84.github.io/morphe-space-explorer/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/dmh84/morphe-space-explorer) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-09-03
 
 * [Patch Atlas](https://patch-atlas.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/shakir2117/Patch-Atlas) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-20
 
@@ -166,7 +166,7 @@
 > \[!NOTE]
 > Pre-patched sources are not listed here for safety and liability reasons.\
 > ⚠️ Only download or [build your own APKs](https://github.com/nvbangg/builder-for-morphe#-build-your-own-apks) ⭐ 102 | 🐛 0 | 🌐 Python | 📅 2026-09-01 from trusted open-source builder repositories.\
-> If you still want to explore them, see [Jman’s list](https://github.com/Jman-Github/Awesome-ReVanced#%EF%B8%8F-builder) ⭐ 339 | 🐛 0 | 🌐 Python | 📅 2026-09-02
+> If you still want to explore them, see [Jman’s list](https://github.com/Jman-Github/Awesome-ReVanced#%EF%B8%8F-builder) ⭐ 339 | 🐛 0 | 🌐 Python | 📅 2026-09-03
 
 ***
 
@@ -175,20 +175,20 @@
 <div align="center">
 
 Maintained with ❤️ by **[@nvbangg](https://github.com/nvbangg)**\
-⭐ Star [this repo](https://github.com/nvbangg/awesome-morphe) ⭐ 363 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-02 if you find it useful!
+⭐ Star [this repo](https://github.com/nvbangg/awesome-morphe) ⭐ 366 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-03 if you find it useful!
 
 </div>
 
 #### ⚠️ Disclaimer
 
-* [This project](https://github.com/nvbangg/awesome-morphe) ⭐ 363 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-02 is not affiliated with [Morphe](https://morphe.software/) or any authors mentioned here.
+* [This project](https://github.com/nvbangg/awesome-morphe) ⭐ 366 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-03 is not affiliated with [Morphe](https://morphe.software/) or any authors mentioned here.
 * Only use patch sources or projects you trust. This project is for informational purposes only and is not responsible for any arising issues.
 
 #### 🙏 Credits
 
-* Patch data is automatically aggregated from: [nvbangg's custom sources](data/discover/custom.json), [Morphe Community Patches](https://morphe-patches.software), [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ⭐ 656 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-02 and [Morphe Archive](https://github.com/rushiforai/morphe-archive) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-09-02.
+* Patch data is automatically aggregated from: [nvbangg's custom sources](data/discover/custom.json), [Morphe Community Patches](https://morphe-patches.software), [ReVanced Patch Bundles](https://github.com/Jman-Github/ReVanced-Patch-Bundles) ⭐ 656 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-03 and [Morphe Archive](https://github.com/rushiforai/morphe-archive) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-09-03.
 * Website design is inspired by [Morphe Community Patches](https://morphe-patches.software), with other references credited in [CONTRIBUTING.md](CONTRIBUTING.md) and the source code.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
