@@ -15,11 +15,11 @@
             "id": 1219854771,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T11:25:43Z",
+            "last_commit": "2026-09-04T08:01:00Z",
             "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 366,
+            "stars": 369,
             "topics": [
               "awesome",
               "awesome-list",
@@ -42,11 +42,11 @@
             "id": 1219854771,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T11:25:43Z",
+            "last_commit": "2026-09-04T08:01:00Z",
             "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 366,
+            "stars": 369,
             "topics": [
               "awesome",
               "awesome-list",
@@ -69,11 +69,11 @@
             "id": 1219854771,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T11:25:43Z",
+            "last_commit": "2026-09-04T08:01:00Z",
             "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 366,
+            "stars": 369,
             "topics": [
               "awesome",
               "awesome-list",
@@ -102,11 +102,11 @@
             "id": 1104751416,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T11:41:39Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-04T09:03:50Z",
+            "open_issues": 23,
             "owner": "MorpheApp",
             "repo": "morphe-manager",
-            "stars": 7721,
+            "stars": 7760,
             "topics": [
               "android",
               "apk",
@@ -131,11 +131,11 @@
             "id": 1104583075,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T11:36:58Z",
-            "open_issues": 455,
+            "last_commit": "2026-09-04T11:37:06Z",
+            "open_issues": 461,
             "owner": "MorpheApp",
             "repo": "morphe-patches",
-            "stars": 3492,
+            "stars": 3510,
             "topics": [
               "android",
               "morphe"
@@ -186,7 +186,7 @@
             "open_issues": 70,
             "owner": "thedjchi",
             "repo": "Shizuku",
-            "stars": 5492,
+            "stars": 5521,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
@@ -208,7 +208,7 @@
                 "id": 1106402083,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-02T08:17:19Z",
+                "last_commit": "2026-09-03T13:22:19Z",
                 "open_issues": 3,
                 "owner": "MorpheApp",
                 "repo": "morphe-documentation",
@@ -231,7 +231,7 @@
                 "id": 1106402083,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-02T08:17:19Z",
+                "last_commit": "2026-09-03T13:22:19Z",
                 "open_issues": 3,
                 "owner": "MorpheApp",
                 "repo": "morphe-documentation",
@@ -250,7 +250,7 @@
             "id": 1106402083,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-02T08:17:19Z",
+            "last_commit": "2026-09-03T13:22:19Z",
             "open_issues": 3,
             "owner": "MorpheApp",
             "repo": "morphe-documentation",
@@ -279,11 +279,11 @@
             "id": 792505279,
             "language": "Kotlin",
             "license": "Unlicense",
-            "last_commit": "2026-09-03T09:54:14Z",
+            "last_commit": "2026-09-04T09:05:25Z",
             "open_issues": 1,
             "owner": "Jman-Github",
             "repo": "ReVanced-Patch-Bundles",
-            "stars": 656,
+            "stars": 657,
             "topics": [
               "koltin",
               "morphe",
@@ -307,11 +307,11 @@
             "id": 1219854771,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T11:25:43Z",
+            "last_commit": "2026-09-04T08:01:00Z",
             "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 366,
+            "stars": 369,
             "topics": [
               "awesome",
               "awesome-list",
@@ -383,11 +383,11 @@
             "id": 1274962994,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T10:22:57Z",
+            "last_commit": "2026-09-04T06:46:33Z",
             "open_issues": 1,
             "owner": "drnx64",
             "repo": "morphe-track-patches",
-            "stars": 21,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
@@ -404,32 +404,11 @@
             "id": 1278644333,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-03T03:22:10Z",
+            "last_commit": "2026-09-04T03:10:45Z",
             "open_issues": 0,
             "owner": "rushiforai",
             "repo": "morphe-archive",
             "stars": 18,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:59:47.153Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Community Patch Space Explorer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1267372040,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-03T09:34:45Z",
-            "open_issues": 0,
-            "owner": "dmh84",
-            "repo": "morphe-space-explorer",
-            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
@@ -459,7 +438,7 @@
       "title": "🔍 Patch Indexes"
     },
     {
-      "description": "Maintained with ❤️ by @nvbangg⭐ Star this repo if you find it useful!",
+      "description": "Maintained with ❤️ by @nvbangg⭐ Star this repository if you find it useful!",
       "items": [
         {
           "children": [
@@ -475,11 +454,11 @@
                 "id": 1219854771,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T11:25:43Z",
+                "last_commit": "2026-09-04T08:01:00Z",
                 "open_issues": 0,
                 "owner": "nvbangg",
                 "repo": "awesome-morphe",
-                "stars": 366,
+                "stars": 369,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -509,11 +488,11 @@
                 "id": 792505279,
                 "language": "Kotlin",
                 "license": "Unlicense",
-                "last_commit": "2026-09-03T09:54:14Z",
+                "last_commit": "2026-09-04T09:05:25Z",
                 "open_issues": 1,
                 "owner": "Jman-Github",
                 "repo": "ReVanced-Patch-Bundles",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "koltin",
                   "morphe",
@@ -535,7 +514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:42:13.859Z",
+    "last_updated": "2026-09-04T11:43:23.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore all Morphe resources, patch bundles and community projects.",
@@ -543,11 +522,11 @@
       "id": 1219854771,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-09-03T11:25:43Z",
+      "last_commit": "2026-09-04T08:01:00Z",
       "open_issues": 0,
       "owner": "nvbangg",
       "repo": "awesome-morphe",
-      "stars": 366,
+      "stars": 369,
       "topics": [
         "awesome",
         "awesome-list",
@@ -556,7 +535,7 @@
         "morphe-patches"
       ]
     },
-    "original_repository_sha": "380b706dfe6268ed75c3a63cab1a96a55bac51fc",
+    "original_repository_sha": "d23758d957495ce7f1a64418d99d80a04983359a",
     "enhanced_repository": "enhansome/enhansome-morphe",
     "enhanced_repository_description": null,
     "title": "Awesome Morphe with stars"
