@@ -15,11 +15,11 @@
             "id": 1219854771,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:00:33Z",
+            "last_commit": "2026-09-07T10:22:16Z",
             "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 371,
+            "stars": 373,
             "topics": [
               "awesome",
               "awesome-list",
@@ -42,11 +42,11 @@
             "id": 1219854771,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:00:33Z",
+            "last_commit": "2026-09-07T10:22:16Z",
             "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 371,
+            "stars": 373,
             "topics": [
               "awesome",
               "awesome-list",
@@ -69,11 +69,11 @@
             "id": 1219854771,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:00:33Z",
+            "last_commit": "2026-09-07T10:22:16Z",
             "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 371,
+            "stars": 373,
             "topics": [
               "awesome",
               "awesome-list",
@@ -102,11 +102,11 @@
             "id": 1104751416,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T08:53:27Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-07T12:13:01Z",
+            "open_issues": 30,
             "owner": "MorpheApp",
             "repo": "morphe-manager",
-            "stars": 7809,
+            "stars": 7852,
             "topics": [
               "android",
               "apk",
@@ -131,11 +131,11 @@
             "id": 1104583075,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T11:11:13Z",
-            "open_issues": 479,
+            "last_commit": "2026-09-07T12:42:24Z",
+            "open_issues": 483,
             "owner": "MorpheApp",
             "repo": "morphe-patches",
-            "stars": 3531,
+            "stars": 3538,
             "topics": [
               "android",
               "morphe"
@@ -186,7 +186,7 @@
             "open_issues": 70,
             "owner": "thedjchi",
             "repo": "Shizuku",
-            "stars": 5559,
+            "stars": 5585,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
@@ -198,7 +198,62 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Frequently asked questions",
+              "title": "📱 Using Morphe Manager",
+              "description": "Illustrated guides for patching, installing, updating, and customizing on your phone",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Morphe app patcher for Android",
+                "homepage": "https://Morphe.software",
+                "id": 1104751416,
+                "language": "Kotlin",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-07T12:13:01Z",
+                "open_issues": 30,
+                "owner": "MorpheApp",
+                "repo": "morphe-manager",
+                "stars": 7852,
+                "topics": [
+                  "android",
+                  "apk",
+                  "app",
+                  "morphe",
+                  "patcher",
+                  "patches",
+                  "youtube"
+                ]
+              },
+              "first_seen": "2026-08-28T18:59:47.153Z"
+            },
+            {
+              "node_type": "item",
+              "title": "💻 Using Morphe Desktop",
+              "description": "Using Morphe Desktop with a computer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Morphe desktop patching tool",
+                "homepage": "https://Morphe.software",
+                "id": 1104582686,
+                "language": "Kotlin",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-07T03:06:11Z",
+                "open_issues": 19,
+                "owner": "MorpheApp",
+                "repo": "morphe-desktop",
+                "stars": 519,
+                "topics": [
+                  "android",
+                  "apk",
+                  "cli",
+                  "morphe"
+                ]
+              },
+              "first_seen": "2026-09-07T13:00:12.814Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Troubleshooting and Frequently asked questions",
               "description": null,
               "children": [],
               "repo_info": {
@@ -221,8 +276,8 @@
             },
             {
               "node_type": "item",
-              "title": "Troubleshooting Help",
-              "description": null,
+              "title": "🛠️ Morphe Development",
+              "description": "Setting up a development environment for Morphe and creating patches",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -269,34 +324,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "ReVanced Patch Bundles",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.",
-            "homepage": null,
-            "id": 792505279,
-            "language": "Kotlin",
-            "license": "Unlicense",
-            "last_commit": "2026-09-06T11:02:22Z",
-            "open_issues": 1,
-            "owner": "Jman-Github",
-            "repo": "ReVanced-Patch-Bundles",
-            "stars": 658,
-            "topics": [
-              "koltin",
-              "morphe",
-              "python",
-              "revanced",
-              "revanced-extended",
-              "revanced-patches"
-            ]
-          },
-          "first_seen": "2026-08-28T18:59:47.153Z"
-        },
-        {
-          "node_type": "item",
           "title": "Awesome Morphe Website",
           "description": null,
           "children": [],
@@ -307,11 +334,11 @@
             "id": 1219854771,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T11:00:33Z",
+            "last_commit": "2026-09-07T10:22:16Z",
             "open_issues": 0,
             "owner": "nvbangg",
             "repo": "awesome-morphe",
-            "stars": 371,
+            "stars": 373,
             "topics": [
               "awesome",
               "awesome-list",
@@ -373,6 +400,34 @@
         },
         {
           "node_type": "item",
+          "title": "ReVanced Patch Bundles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.",
+            "homepage": null,
+            "id": 792505279,
+            "language": "Kotlin",
+            "license": "Unlicense",
+            "last_commit": "2026-09-07T12:35:48Z",
+            "open_issues": 1,
+            "owner": "Jman-Github",
+            "repo": "ReVanced-Patch-Bundles",
+            "stars": 661,
+            "topics": [
+              "koltin",
+              "morphe",
+              "python",
+              "revanced",
+              "revanced-extended",
+              "revanced-patches"
+            ]
+          },
+          "first_seen": "2026-08-28T18:59:47.153Z"
+        },
+        {
+          "node_type": "item",
           "title": "Morphe Archive",
           "description": null,
           "children": [],
@@ -383,7 +438,7 @@
             "id": 1278644333,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-06T03:09:28Z",
+            "last_commit": "2026-09-07T03:07:48Z",
             "open_issues": 0,
             "owner": "rushiforai",
             "repo": "morphe-archive",
@@ -433,11 +488,11 @@
                 "id": 1219854771,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-06T11:00:33Z",
+                "last_commit": "2026-09-07T10:22:16Z",
                 "open_issues": 0,
                 "owner": "nvbangg",
                 "repo": "awesome-morphe",
-                "stars": 371,
+                "stars": 373,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -467,11 +522,39 @@
                 "id": 792505279,
                 "language": "Kotlin",
                 "license": "Unlicense",
-                "last_commit": "2026-09-06T11:02:22Z",
+                "last_commit": "2026-09-07T12:35:48Z",
                 "open_issues": 1,
                 "owner": "Jman-Github",
                 "repo": "ReVanced-Patch-Bundles",
-                "stars": 658,
+                "stars": 661,
+                "topics": [
+                  "koltin",
+                  "morphe",
+                  "python",
+                  "revanced",
+                  "revanced-extended",
+                  "revanced-patches"
+                ]
+              },
+              "first_seen": "2026-08-28T18:59:47.153Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Bundle parser is adapted from Jman's ReVanced Patch Bundles",
+              "description": "to fit this project and Morphe.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Automatically aggregates alternative ReVanced & Morphe patch bundles into JSON files to import into the ReVanced & Morphe Managers.",
+                "homepage": null,
+                "id": 792505279,
+                "language": "Kotlin",
+                "license": "Unlicense",
+                "last_commit": "2026-09-07T12:35:48Z",
+                "open_issues": 1,
+                "owner": "Jman-Github",
+                "repo": "ReVanced-Patch-Bundles",
+                "stars": 661,
                 "topics": [
                   "koltin",
                   "morphe",
@@ -493,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:19:42.626Z",
+    "last_updated": "2026-09-07T13:00:12.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore all Morphe resources, patch bundles and community projects.",
@@ -501,11 +584,11 @@
       "id": 1219854771,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-09-06T11:00:33Z",
+      "last_commit": "2026-09-07T10:22:16Z",
       "open_issues": 0,
       "owner": "nvbangg",
       "repo": "awesome-morphe",
-      "stars": 371,
+      "stars": 373,
       "topics": [
         "awesome",
         "awesome-list",
@@ -514,7 +597,7 @@
         "morphe-patches"
       ]
     },
-    "original_repository_sha": "cef72616def94b1d7968e7a4ed320c6ec7d2ccc7",
+    "original_repository_sha": "5b73f5eac6f801ff5ed146a5c30c17c38f3381f0",
     "enhanced_repository": "enhansome/enhansome-morphe",
     "enhanced_repository_description": null,
     "title": "Awesome Morphe with stars"
