@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": null,
+      "description": "Official Morphe resources and projects.",
       "items": [
         {
           "node_type": "item",
@@ -15,11 +15,11 @@
             "id": 1104751416,
             "language": "Kotlin",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T12:08:04Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-07T12:07:57Z",
+            "open_issues": 20,
             "owner": "MorpheApp",
             "repo": "morphe-manager",
-            "stars": 10045,
+            "stars": 10076,
             "topics": [
               "android",
               "apk",
@@ -34,79 +34,28 @@
         },
         {
           "node_type": "item",
-          "title": "morphe-patches",
-          "description": "MorpheApp/morphe-patches",
+          "title": "PotHelper",
+          "description": "MorpheApp/PotHelper",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Morphe Patches",
-            "homepage": "https://Morphe.software",
-            "id": 1104583075,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-06T14:21:54Z",
-            "open_issues": 486,
-            "owner": "MorpheApp",
-            "repo": "morphe-patches",
-            "stars": 4601,
-            "topics": [
-              "android",
-              "morphe"
-            ]
-          },
-          "first_seen": "2026-08-29T12:49:28.344Z"
-        },
-        {
-          "node_type": "item",
-          "title": "morphe-website",
-          "description": "MorpheApp/morphe-website",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Website for Morphe",
-            "homepage": "https://Morphe.software",
-            "id": 1106177207,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-11-01T16:25:11Z",
-            "open_issues": 2,
-            "owner": "MorpheApp",
-            "repo": "morphe-website",
-            "stars": 29,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T12:49:28.344Z"
-        }
-      ],
-      "title": "✅ Official"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "How to install and use Shizuku",
-          "description": "thedjchi/Shizuku",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+            "description": "A simple PoToken minter written in Java",
             "homepage": null,
-            "id": 1029712303,
-            "language": "Kotlin",
+            "id": 1348180276,
+            "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-15T03:12:10Z",
-            "open_issues": 98,
-            "owner": "thedjchi",
-            "repo": "Shizuku",
-            "stars": 6760,
+            "last_commit": "2026-10-12T06:44:30Z",
+            "open_issues": 1,
+            "owner": "MorpheApp",
+            "repo": "PotHelper",
+            "stars": 571,
             "topics": []
           },
-          "first_seen": "2026-08-28T18:59:47.153Z"
+          "first_seen": "2026-11-07T13:31:14.356Z"
         },
         {
           "node_type": "item",
-          "title": "Morphe Documentation",
+          "title": "morphe-documentation",
           "description": "MorpheApp/morphe-documentation",
           "children": [
             {
@@ -121,11 +70,11 @@
                 "id": 1104751416,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T12:08:04Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-07T12:07:57Z",
+                "open_issues": 20,
                 "owner": "MorpheApp",
                 "repo": "morphe-manager",
-                "stars": 10045,
+                "stars": 10076,
                 "topics": [
                   "android",
                   "apk",
@@ -150,11 +99,11 @@
                 "id": 1104582686,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T10:02:04Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-07T11:15:38Z",
+                "open_issues": 16,
                 "owner": "MorpheApp",
                 "repo": "morphe-desktop",
-                "stars": 779,
+                "stars": 782,
                 "topics": [
                   "android",
                   "apk",
@@ -246,11 +195,11 @@
                 "id": 1104583075,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T14:21:54Z",
-                "open_issues": 486,
+                "last_commit": "2026-11-07T12:46:14Z",
+                "open_issues": 481,
                 "owner": "MorpheApp",
                 "repo": "morphe-patches",
-                "stars": 4601,
+                "stars": 4649,
                 "topics": [
                   "android",
                   "morphe"
@@ -261,10 +210,10 @@
           ]
         }
       ],
-      "title": "📚 Resources"
+      "title": "✅ Official"
     },
     {
-      "description": "🔍 Browse and explore all supported Morphe apps and patches from the following sources:",
+      "description": "Places to discover Morphe patch sources.",
       "items": [
         {
           "node_type": "item",
@@ -278,11 +227,11 @@
             "id": 792505279,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-11-06T04:10:02Z",
+            "last_commit": "2026-11-07T00:15:23Z",
             "open_issues": 0,
             "owner": "Jman-Github",
             "repo": "Patch-Bundle-Registry",
-            "stars": 724,
+            "stars": 725,
             "topics": [
               "api",
               "database",
@@ -332,11 +281,11 @@
             "id": 1278644333,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-11-06T05:52:53Z",
+            "last_commit": "2026-11-07T05:23:03Z",
             "open_issues": 1,
             "owner": "rushiforai",
             "repo": "morphe-archive",
-            "stars": 36,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:47.153Z"
@@ -353,7 +302,7 @@
             "id": 1274962994,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T14:22:50Z",
+            "last_commit": "2026-11-07T09:01:20Z",
             "open_issues": 0,
             "owner": "drnx64",
             "repo": "fresh-morphe",
@@ -366,13 +315,61 @@
       "title": "🔍 Patch Indexes"
     },
     {
-      "description": "Maintained with ❤️ by @nvbangg",
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "How to install and use Shizuku",
+          "description": "thedjchi/Shizuku",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+            "homepage": null,
+            "id": 1029712303,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-15T03:12:10Z",
+            "open_issues": 98,
+            "owner": "thedjchi",
+            "repo": "Shizuku",
+            "stars": 6784,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:59:47.153Z"
+        },
+        {
+          "node_type": "item",
+          "title": "All About Morphe",
+          "description": "gojoyadav/All-About-Morphe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Definitive Knowledge Base & Architecture Compendium for the Morphe Android Patching Ecosystem",
+            "homepage": null,
+            "id": 1438055569,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-07T12:28:22Z",
+            "open_issues": 0,
+            "owner": "gojoyadav",
+            "repo": "All-About-Morphe",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-07T13:31:14.356Z"
+        }
+      ],
+      "title": "📚 Other Resources"
+    },
+    {
+      "description": "Maintained with ❤️ by @nvbangg\n[!NOTE] Sources providing pre-patched APKs are not listed here for safety and liability reasons.If you still want to explore them, see Jman’s list",
       "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "Patch data is automatically aggregated from: nvbangg's custom sources",
+              "title": "Patch data is automatically aggregated from nvbangg's custom sources",
               "description": ", Morphe Community Patches, Patch Bundle Registry and Morphe Archive.",
               "children": [],
               "repo_info": {
@@ -382,11 +379,11 @@
                 "id": 792505279,
                 "language": "Python",
                 "license": "Unlicense",
-                "last_commit": "2026-11-06T04:10:02Z",
+                "last_commit": "2026-11-07T00:15:23Z",
                 "open_issues": 0,
                 "owner": "Jman-Github",
                 "repo": "Patch-Bundle-Registry",
-                "stars": 724,
+                "stars": 725,
                 "topics": [
                   "api",
                   "database",
@@ -415,11 +412,11 @@
                 "id": 792505279,
                 "language": "Python",
                 "license": "Unlicense",
-                "last_commit": "2026-11-06T04:10:02Z",
+                "last_commit": "2026-11-07T00:15:23Z",
                 "open_issues": 0,
                 "owner": "Jman-Github",
                 "repo": "Patch-Bundle-Registry",
-                "stars": 724,
+                "stars": 725,
                 "topics": [
                   "api",
                   "database",
@@ -442,11 +439,11 @@
           "title": "🙏 Credits"
         }
       ],
-      "title": "ℹ️ About"
+      "title": "ℹ️ About Awesome Morphe"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:35:44.486Z",
+    "last_updated": "2026-11-07T13:31:14.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Explore all Morphe resources, patch bundles and community projects.",
@@ -454,7 +451,7 @@
       "id": 1219854771,
       "language": "Kotlin",
       "license": "MIT",
-      "last_commit": "2026-11-06T14:32:11Z",
+      "last_commit": "2026-11-07T12:49:43Z",
       "open_issues": 1,
       "owner": "nvbangg",
       "repo": "awesome-morphe",
@@ -467,7 +464,7 @@
         "morphe-patches"
       ]
     },
-    "original_repository_sha": "0348423ca341a15cdf3ae3402d03da6384fc2306",
+    "original_repository_sha": "dfdc3a80b45ef51e85bb9768d809dc9bf62feb6b",
     "enhanced_repository": "enhansome/enhansome-morphe",
     "enhanced_repository_description": null,
     "title": "Awesome morphe with stars"
