@@ -48,11 +48,11 @@ Official Morphe resources and projects.
 
 ### <a id="official-github"></a> [![GitHub](https://img.shields.io/badge/GitHub-MorpheApp-gray?logo=github\&labelColor=24292F)](https://github.com/MorpheApp)
 
-* [![Morphe Manager](https://img.shields.io/badge/%F0%9F%92%8A%20Morphe%20Manager-gray)](https://github.com/MorpheApp/morphe-manager) ⭐ 10,316 | 🐛 42 | 🌐 Kotlin | 📅 2026-11-12　[![MicroG RE](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20MicroG%20RE-gray)](https://github.com/MorpheApp/MicroG-RE) ⭐ 6,313 | 🐛 29 | 🌐 Java | 📅 2026-11-04　[![Morphe Desktop](https://img.shields.io/badge/%F0%9F%92%BB%20Morphe%20Desktop-gray)](https://github.com/MorpheApp/morphe-desktop) ⭐ 809 | 🐛 19 | 🌐 Kotlin | 📅 2026-11-12　[![Morphe Patches](https://img.shields.io/badge/%F0%9F%A7%A9%20Morphe%20Patches-gray)](https://github.com/MorpheApp/morphe-patches) ⭐ 4,793 | 🐛 545 | 🌐 Java | 📅 2026-11-12　
-* [![PoToken Helper](https://img.shields.io/badge/%F0%9F%92%BC%20PoToken%20Helper-gray)](https://github.com/MorpheApp/PotHelper) ⭐ 581 | 🐛 1 | 🌐 Java | 📅 2026-10-12　[![Morphe Patches Template](https://img.shields.io/badge/%F0%9F%91%8B%F0%9F%A7%A9%20Morphe%20Patches%20Template-gray)](https://github.com/MorpheApp/morphe-patches-template) ⭐ 140 | 🐛 1 | 🌐 Kotlin | 📅 2026-11-06　[![Morphe Patcher](https://img.shields.io/badge/%F0%9F%92%89%20Morphe%20Patcher-gray)](https://github.com/MorpheApp/morphe-patcher) ⭐ 259 | 🐛 9 | 🌐 Kotlin | 📅 2026-11-09　[![Morphe Library](https://img.shields.io/badge/%F0%9F%93%9A%20Morphe%20Library-gray)](https://github.com/MorpheApp/morphe-library) ⭐ 25 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-09　[![Morphe Patches Library](https://img.shields.io/badge/%F0%9F%93%9A%20Morphe%20Patches%20Library-gray)](https://github.com/MorpheApp/morphe-patches-library) ⭐ 41 | 🐛 1 | 🌐 Java | 📅 2026-11-11　[![Morphe Patches Gradle plugin](https://img.shields.io/badge/%F0%9F%90%98%20Morphe%20Patches%20Gradle%20plugin-gray)](https://github.com/MorpheApp/morphe-patches-gradle-plugin) ⭐ 11 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-01　[![Morphe Website](https://img.shields.io/badge/%F0%9F%8C%90%20Morphe%20Website-gray)](https://github.com/MorpheApp/morphe-website) ⭐ 29 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-11　[![Morphe Branding](https://img.shields.io/badge/%C2%A9%EF%B8%8F%20Branding-gray)](https://github.com/MorpheApp/morphe-branding) ⭐ 10 | 🐛 3 | 📅 2026-05-25　[![jadb](https://img.shields.io/badge/jadb-gray)](https://github.com/MorpheApp/jadb) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-05-04
+* [![Morphe Manager](https://img.shields.io/badge/%F0%9F%92%8A%20Morphe%20Manager-gray)](https://github.com/MorpheApp/morphe-manager) ⭐ 10,349 | 🐛 36 | 🌐 Kotlin | 📅 2026-11-13　[![MicroG RE](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20MicroG%20RE-gray)](https://github.com/MorpheApp/MicroG-RE) ⭐ 6,325 | 🐛 28 | 🌐 Java | 📅 2026-11-13　[![Morphe Desktop](https://img.shields.io/badge/%F0%9F%92%BB%20Morphe%20Desktop-gray)](https://github.com/MorpheApp/morphe-desktop) ⭐ 812 | 🐛 19 | 🌐 Kotlin | 📅 2026-11-13　[![Morphe Patches](https://img.shields.io/badge/%F0%9F%A7%A9%20Morphe%20Patches-gray)](https://github.com/MorpheApp/morphe-patches) ⭐ 4,810 | 🐛 542 | 🌐 Java | 📅 2026-11-13　
+* [![PoToken Helper](https://img.shields.io/badge/%F0%9F%92%BC%20PoToken%20Helper-gray)](https://github.com/MorpheApp/PotHelper) ⭐ 582 | 🐛 1 | 🌐 Java | 📅 2026-10-12　[![Morphe Patches Template](https://img.shields.io/badge/%F0%9F%91%8B%F0%9F%A7%A9%20Morphe%20Patches%20Template-gray)](https://github.com/MorpheApp/morphe-patches-template) ⭐ 141 | 🐛 1 | 🌐 Kotlin | 📅 2026-11-06　[![Morphe Patcher](https://img.shields.io/badge/%F0%9F%92%89%20Morphe%20Patcher-gray)](https://github.com/MorpheApp/morphe-patcher) ⭐ 258 | 🐛 9 | 🌐 Kotlin | 📅 2026-11-13　[![Morphe Library](https://img.shields.io/badge/%F0%9F%93%9A%20Morphe%20Library-gray)](https://github.com/MorpheApp/morphe-library) ⭐ 25 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-09　[![Morphe Patches Library](https://img.shields.io/badge/%F0%9F%93%9A%20Morphe%20Patches%20Library-gray)](https://github.com/MorpheApp/morphe-patches-library) ⭐ 41 | 🐛 1 | 🌐 Java | 📅 2026-11-12　[![Morphe Patches Gradle plugin](https://img.shields.io/badge/%F0%9F%90%98%20Morphe%20Patches%20Gradle%20plugin-gray)](https://github.com/MorpheApp/morphe-patches-gradle-plugin) ⭐ 11 | 🐛 0 | 🌐 Kotlin | 📅 2026-11-01　[![Morphe Website](https://img.shields.io/badge/%F0%9F%8C%90%20Morphe%20Website-gray)](https://github.com/MorpheApp/morphe-website) ⭐ 29 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-11　[![Morphe Branding](https://img.shields.io/badge/%C2%A9%EF%B8%8F%20Branding-gray)](https://github.com/MorpheApp/morphe-branding) ⭐ 10 | 🐛 3 | 📅 2026-05-25　[![jadb](https://img.shields.io/badge/jadb-gray)](https://github.com/MorpheApp/jadb) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-05-04
 * [![Morphe Documentation](https://img.shields.io/badge/%F0%9F%97%84%20Morphe%20Documentation-gray)](https://github.com/MorpheApp/morphe-documentation) ⭐ 165 | 🐛 3 | 📅 2026-10-28
-  * [📱 Using Morphe Manager](https://github.com/MorpheApp/morphe-manager/blob/main/docs/README.md) ⭐ 10,316 | 🐛 42 | 🌐 Kotlin | 📅 2026-11-12: Illustrated guides for patching, installing, updating, and customizing on your phone
-  * [💻 Using Morphe Desktop](https://github.com/MorpheApp/morphe-desktop/blob/main/docs/documentation.md) ⭐ 809 | 🐛 19 | 🌐 Kotlin | 📅 2026-11-12: Using Morphe Desktop with a computer
+  * [📱 Using Morphe Manager](https://github.com/MorpheApp/morphe-manager/blob/main/docs/README.md) ⭐ 10,349 | 🐛 36 | 🌐 Kotlin | 📅 2026-11-13: Illustrated guides for patching, installing, updating, and customizing on your phone
+  * [💻 Using Morphe Desktop](https://github.com/MorpheApp/morphe-desktop/blob/main/docs/documentation.md) ⭐ 812 | 🐛 19 | 🌐 Kotlin | 📅 2026-11-13: Using Morphe Desktop with a computer
   * [Troubleshooting and Frequently asked questions](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-resources/troubleshooting_questions.md) ⭐ 165 | 🐛 3 | 📅 2026-10-28
   * [🛠️ Morphe Development](https://github.com/MorpheApp/morphe-documentation/blob/main/docs/morphe-development/README.md) ⭐ 165 | 🐛 3 | 📅 2026-10-28: Setting up a development environment for Morphe and creating patches
 
@@ -66,7 +66,7 @@ Official Morphe resources and projects.
 * [How to request app patches](https://www.reddit.com/r/MorpheApp/comments/1vmfizy/how_to_request_app_patches/)
 * [Morphe Desktop (Currently Morphe CLI)](https://www.reddit.com/r/MorpheApp/comments/1rtr3ee/morphe_desktop_currently_morphe_cli/)
 * ~~[PotHelper Guide - YouTube playback with no spoofing required](https://www.reddit.com/r/MorpheApp/comments/1w0o641/pothelper_is_here_youtube_playback_with_no/)~~
-  * \[NOTE] [PotHelper is now failing for most users, use spoof streams again](https://github.com/MorpheApp/morphe-patches/issues/327#issuecomment-5793074122) ⭐ 4,793 | 🐛 545 | 🌐 Java | 📅 2026-11-12
+  * \[NOTE] [PotHelper is now failing for most users, use spoof streams again](https://github.com/MorpheApp/morphe-patches/issues/327#issuecomment-5793074122) ⭐ 4,810 | 🐛 542 | 🌐 Java | 📅 2026-11-13
 * [Regarding the Morphe DMCA](https://www.reddit.com/r/MorpheApp/comments/1s3w1er/regarding_the_morphe_dmca/)
 
 <!-- - [How To Patch More Apps With Morphe](https://www.reddit.com/r/MorpheApp/comments/1ta0bek/how_to_patch_more_apps_with_morphe/) -->
@@ -75,10 +75,10 @@ Official Morphe resources and projects.
 
 Places to discover Morphe patch sources.
 
-* [Patch Bundle Registry](https://patch-bundles.jmancentral.com/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/Jman-Github/Patch-Bundle-Registry) ⭐ 729 | 🐛 0 | 🌐 Python | 📅 2026-11-11
+* [Patch Bundle Registry](https://patch-bundles.jmancentral.com/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/Jman-Github/Patch-Bundle-Registry) ⭐ 730 | 🐛 0 | 🌐 Python | 📅 2026-11-13
 * [Revanced External Bundles](https://revanced-external-bundles.brosssh.com/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/brosssh/revanced-external-bundles) ⭐ 44 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-08
-* [Morphe Archive](https://rushiforai.github.io/morphe-archive/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/rushiforai/morphe-archive) ⭐ 38 | 🐛 2 | 🌐 Java | 📅 2026-11-12
-* [Fresh Morphe](https://drnx64.github.io/fresh-morphe/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/drnx64/fresh-morphe) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-12
+* [Morphe Archive](https://rushiforai.github.io/morphe-archive/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/rushiforai/morphe-archive) ⭐ 39 | 🐛 1 | 🌐 Java | 📅 2026-11-13
+* [Fresh Morphe](https://drnx64.github.io/fresh-morphe/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/drnx64/fresh-morphe) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-11-13
 * [Awesome Morphe Website](https://awesome-morphe.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-black?style=social\&logo=github)](https://github.com/nvbangg/awesome-morphe)
 * [Morphe Community Patches](https://morphe-patches.software/)
 
@@ -94,38 +94,38 @@ Places to discover Morphe patch sources.
 
 Helpers for downloading original APKs.
 
-[![rushiranpise/helper-for-morphe](https://github-stats-extended.vercel.app/api/pin?username=rushiranpise\&repo=helper-for-morphe\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/rushiranpise/helper-for-morphe) ⭐ 468 | 🐛 18 | 🌐 Kotlin | 📅 2026-11-01
-[![GeneralZyonix/morphe-download-helper](https://github-stats-extended.vercel.app/api/pin?username=GeneralZyonix\&repo=morphe-download-helper\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/GeneralZyonix/morphe-download-helper) ⭐ 240 | 🐛 14 | 🌐 Java | 📅 2026-11-11
+[![rushiranpise/helper-for-morphe](https://github-stats-extended.vercel.app/api/pin?username=rushiranpise\&repo=helper-for-morphe\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/rushiranpise/helper-for-morphe) ⭐ 476 | 🐛 18 | 🌐 Kotlin | 📅 2026-11-01
+[![GeneralZyonix/morphe-download-helper](https://github-stats-extended.vercel.app/api/pin?username=GeneralZyonix\&repo=morphe-download-helper\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/GeneralZyonix/morphe-download-helper) ⭐ 244 | 🐛 8 | 🌐 Java | 📅 2026-11-13
 [![heval99/sideport](https://github-stats-extended.vercel.app/api/pin?username=heval99\&repo=sideport\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/heval99/sideport) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11
-[![Akash-Sriram/morphe-fetch](https://github-stats-extended.vercel.app/api/pin?username=Akash-Sriram\&repo=morphe-fetch\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/Akash-Sriram/morphe-fetch) ⭐ 18 | 🐛 1 | 🌐 Kotlin | 📅 2026-11-12
+[![Akash-Sriram/morphe-fetch](https://github-stats-extended.vercel.app/api/pin?username=Akash-Sriram\&repo=morphe-fetch\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/Akash-Sriram/morphe-fetch) ⭐ 23 | 🐛 1 | 🌐 Kotlin | 📅 2026-11-13
 
 ## <a id="other-resources"></a> 📚 Other Resources
 
-* [How to install and use Shizuku](https://github.com/thedjchi/Shizuku/wiki) ⭐ 6,882 | 🐛 99 | 🌐 Kotlin | 📅 2026-07-15
-* [All About Morphe](https://github.com/gojoyadav/All-About-Morphe) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-12
+* [How to install and use Shizuku](https://github.com/thedjchi/Shizuku/wiki) ⭐ 6,891 | 🐛 99 | 🌐 Kotlin | 📅 2026-07-15
+* [All About Morphe](https://github.com/gojoyadav/All-About-Morphe) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-13
 * [Morphe Workspace - A collection of Android apps that complement Morphe](https://www.reddit.com/r/MorpheApp/comments/1wiowwa/morphe_workspace_a_collection_of_android_apps/)
 * [All solutions to bypass Android sideloading restrictions](https://www.reddit.com/r/MorpheApp/comments/1wuusyp/the_first_wave_of_sideloading_restrictions_has/)
 
 ## <a id="other-projects"></a> 🛠️ Other Projects
 
-[![Paresh-Maheshwari/morphe-ai](https://github-stats-extended.vercel.app/api/pin?username=Paresh-Maheshwari\&repo=morphe-ai\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/Paresh-Maheshwari/morphe-ai) ⭐ 197 | 🐛 2 | 🌐 Shell | 📅 2026-09-29
-[![d3ffen/patchit](https://github-stats-extended.vercel.app/api/pin?username=d3ffen\&repo=patchit\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/d3ffen/patchit) ⭐ 147 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-06
-[![SatanMerde/Morphy-Patches-Creator](https://github-stats-extended.vercel.app/api/pin?username=SatanMerde\&repo=Morphy-Patches-Creator\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/SatanMerde/Morphy-Patches-Creator) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-07
+[![Paresh-Maheshwari/morphe-ai](https://github-stats-extended.vercel.app/api/pin?username=Paresh-Maheshwari\&repo=morphe-ai\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/Paresh-Maheshwari/morphe-ai) ⭐ 198 | 🐛 2 | 🌐 Shell | 📅 2026-09-29
+[![d3ffen/patchit](https://github-stats-extended.vercel.app/api/pin?username=d3ffen\&repo=patchit\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/d3ffen/patchit) ⭐ 152 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-13
+[![SatanMerde/Morphy-Patches-Creator](https://github-stats-extended.vercel.app/api/pin?username=SatanMerde\&repo=Morphy-Patches-Creator\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/SatanMerde/Morphy-Patches-Creator) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-11-07
 [![j0p3s/morphe-json-to-mpp](https://github-stats-extended.vercel.app/api/pin?username=j0p3s\&repo=morphe-json-to-mpp\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/j0p3s/morphe-json-to-mpp) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-11-05
-[![ngocthanhgl/morphe-audit-bot](https://github-stats-extended.vercel.app/api/pin?username=ngocthanhgl\&repo=morphe-audit-bot\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/ngocthanhgl/morphe-audit-bot) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12
+[![ngocthanhgl/morphe-audit-bot](https://github-stats-extended.vercel.app/api/pin?username=ngocthanhgl\&repo=morphe-audit-bot\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/ngocthanhgl/morphe-audit-bot) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-13
 [![pkok1099/morphe-iconpack](https://github-stats-extended.vercel.app/api/pin?username=pkok1099\&repo=morphe-iconpack\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/pkok1099/morphe-iconpack) ⭐ 4 | 🐛 0 | 📅 2026-10-22
 [![hoo-dles/jadx-morphe](https://github-stats-extended.vercel.app/api/pin?username=hoo-dles\&repo=jadx-morphe\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/hoo-dles/jadx-morphe) ⭐ 18 | 🐛 1 | 🌐 Kotlin | 📅 2026-11-04
 [![crimera/morphe-bytecode](https://github-stats-extended.vercel.app/api/pin?username=crimera\&repo=morphe-bytecode\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/crimera/morphe-bytecode) ⭐ 5 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-23
 [![brosssh/morphe-mcp](https://github-stats-extended.vercel.app/api/pin?username=brosssh\&repo=morphe-mcp\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/brosssh/morphe-mcp) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-06-25
-[![jpa102/more\_feature\_flags](https://github-stats-extended.vercel.app/api/pin?username=jpa102\&repo=more_feature_flags\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/jpa102/more_feature_flags) ⭐ 8 | 🐛 0 | 📅 2026-11-12
-[![Jman-Github/Awesome-Android-Patching](https://github-stats-extended.vercel.app/api/pin?username=Jman-Github\&repo=Awesome-Android-Patching\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/Jman-Github/Awesome-Android-Patching) ⭐ 370 | 🐛 0 | 🌐 Python | 📅 2026-11-12
+[![jpa102/morphe\_feature\_flags](https://github-stats-extended.vercel.app/api/pin?username=jpa102\&repo=morphe_feature_flags\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/jpa102/morphe_feature_flags) ⭐ 8 | 🐛 0 | 📅 2026-11-12
+[![Jman-Github/Awesome-Android-Patching](https://github-stats-extended.vercel.app/api/pin?username=Jman-Github\&repo=Awesome-Android-Patching\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/Jman-Github/Awesome-Android-Patching) ⭐ 371 | 🐛 0 | 🌐 Python | 📅 2026-11-13
 
 <details>
 <summary>Alternative Patching Tools</summary>
 
-[![holjab/AutoMorph](https://github-stats-extended.vercel.app/api/pin?username=holjab\&repo=AutoMorph\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/holjab/AutoMorph) ⭐ 209 | 🐛 6 | 🌐 Python | 📅 2026-11-12
+[![holjab/AutoMorph](https://github-stats-extended.vercel.app/api/pin?username=holjab\&repo=AutoMorph\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/holjab/AutoMorph) ⭐ 210 | 🐛 6 | 🌐 Python | 📅 2026-11-13
 [![GROWNUPS/Patchium](https://github-stats-extended.vercel.app/api/pin?username=GROWNUPS\&repo=Patchium\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/GROWNUPS/Patchium) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-09-30
-[![Jman-Github/Universal-Patch-Manager](https://github-stats-extended.vercel.app/api/pin?username=Jman-Github\&repo=Universal-Patch-Manager\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/Jman-Github/Universal-Patch-Manager) ⭐ 1,429 | 🐛 31 | 🌐 Kotlin | 📅 2026-11-12
+[![Jman-Github/Universal-Patch-Manager](https://github-stats-extended.vercel.app/api/pin?username=Jman-Github\&repo=Universal-Patch-Manager\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/Jman-Github/Universal-Patch-Manager) ⭐ 1,429 | 🐛 31 | 🌐 Kotlin | 📅 2026-11-13
 [![Xisrr1/Revancify-Xisr](https://github-stats-extended.vercel.app/api/pin?username=Xisrr1\&repo=Revancify-Xisr\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/Xisrr1/Revancify-Xisr) ⭐ 137 | 🐛 4 | 🌐 Shell | 📅 2026-10-02
 [![Graywizard888/Enhancify](https://github-stats-extended.vercel.app/api/pin?username=Graywizard888\&repo=Enhancify\&show_owner=true\&theme_light=light_github_repocard\&theme_dark=dark_github_repocard)](https://github.com/Graywizard888/Enhancify) ⭐ 204 | 🐛 13 | 🌐 Shell | 📅 2026-10-28
 
@@ -145,7 +145,7 @@ Maintained with ❤️ by **[@nvbangg](https://github.com/nvbangg)**
 
 > \[!NOTE]
 > Sources providing pre-patched APKs are not listed here for safety and liability reasons.\
-> If you still want to explore them, see [Jman’s list](https://github.com/Jman-Github/Awesome-Android-Patching#%EF%B8%8F-builder) ⭐ 370 | 🐛 0 | 🌐 Python | 📅 2026-11-12
+> If you still want to explore them, see [Jman’s list](https://github.com/Jman-Github/Awesome-Android-Patching#%EF%B8%8F-builder) ⭐ 371 | 🐛 0 | 🌐 Python | 📅 2026-11-13
 
 ### ⚠️ Disclaimer
 
@@ -154,10 +154,10 @@ Maintained with ❤️ by **[@nvbangg](https://github.com/nvbangg)**
 
 ### 🙏 Credits
 
-* Patch data is automatically aggregated from [nvbangg's custom sources](data/bundle-sources/custom.json), [Morphe Community Patches](https://morphe-patches.software), [Patch Bundle Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) ⭐ 729 | 🐛 0 | 🌐 Python | 📅 2026-11-11 and [Morphe Archive](https://github.com/rushiforai/morphe-archive) ⭐ 38 | 🐛 2 | 🌐 Java | 📅 2026-11-12.
-* Bundle parser is adapted from [Jman's Patch Bundle Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) ⭐ 729 | 🐛 0 | 🌐 Python | 📅 2026-11-11 to fit this project and Morphe.
+* Patch data is automatically aggregated from [nvbangg's custom sources](data/bundle-sources/custom.json), [Morphe Community Patches](https://morphe-patches.software), [Patch Bundle Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) ⭐ 730 | 🐛 0 | 🌐 Python | 📅 2026-11-13 and [Morphe Archive](https://github.com/rushiforai/morphe-archive) ⭐ 39 | 🐛 1 | 🌐 Java | 📅 2026-11-13.
+* Bundle parser is adapted from [Jman's Patch Bundle Registry](https://github.com/Jman-Github/Patch-Bundle-Registry) ⭐ 730 | 🐛 0 | 🌐 Python | 📅 2026-11-13 to fit this project and Morphe.
 * Website design is inspired by [Morphe Community Patches](https://morphe-patches.software).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
